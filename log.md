@@ -5,13 +5,14 @@
 
 **Thoughts:** I've been working through this book before starting 100 days of code and its really helping explain the intricacies of CSS in easy to understand chunks. To anyone that says CSS is easy - I say, F you! CSS is complex and powerful in its own right. I want to take a CSS first approach to other projects before relying on JavaScript in future. 
 
-**Link to work:** coming shortly
+**Link to work:** Still need to upload this
 
 ### Day 2: January 2, 2017
-**Today's Progress**: revisted my Jekyll Blog <https://chiubaca.github.io/> and done some played around with Skeleton framework. I may re-write my blog to use the skeleton framework as practice.
+**Today's Progress**: revisted my Jekyll Blog and done some played around with Skeleton framework. I may re-write my blog to use the skeleton framework as practice.
 
 **Thoughts:** Tomomorrow I know will be hard to find time to code, but I thinking of messing around with Flexbox next.
 
+**Link to work:** <https://chiubaca.github.io/>
 <!---
 ### Day 0: February 30, 2016 (Example 1)
 ##### (delete me or comment me out)
