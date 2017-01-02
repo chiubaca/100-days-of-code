@@ -8,7 +8,7 @@
 **Link to work:** Still need to upload this
 
 ### Day 2: January 2, 2017
-**Today's Progress**: revisted my Jekyll Blog and done some played around with Skeleton framework. I may re-write my blog to use the skeleton framework as practice.
+**Today's Progress**: revisted my Jekyll Blog and played around with the Skeleton CSS framework some more. I may re-write my blog to use the skeleton framework as practice.
 
 **Thoughts:** Tomomorrow I know will be hard to find time to code, but I thinking of messing around with Flexbox next.
 
