@@ -1,11 +1,11 @@
 # 100 Days Of Code - Log
-### Day 0: January 1, 2017
+### Day 1: January 1, 2017
 
 **Today's Progress**: Today, pondering why Twitter Bootstrap is so popular and learning about CSS grid systems from the ground up. Have finished the tutorial on chapter 16 from the book "CSS: the missing manual" and messing around the Skeleton framework, an alternative to Bootstrap.
 
 **Thoughts:** I've been working through this book before starting 100 days of code and its really helping explain the intricacies of CSS in easy to understand chunks. To anyone that says CSS is easy - I say, F you! CSS is complex and powerful in its own right. I want to take a CSS first approach to other projects before relying on JavaScript in future. 
 
-**Link to work:** n/a
+**Link to work:** coming shortly
 
 <!---
 ### Day 0: February 30, 2016 (Example 1)
