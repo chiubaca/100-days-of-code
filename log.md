@@ -7,6 +7,11 @@
 
 **Link to work:** coming shortly
 
+### Day 2: January 2, 2017
+**Today's Progress**: revisted my Jekyll Blog <https://chiubaca.github.io/> and done some played around with Skeleton framework. I may re-write my blog to use the skeleton framework as practice.
+
+**Thoughts:** Tomomorrow I know will be hard to find time to code, but I thinking of messing around with Flexbox next.
+
 <!---
 ### Day 0: February 30, 2016 (Example 1)
 ##### (delete me or comment me out)
