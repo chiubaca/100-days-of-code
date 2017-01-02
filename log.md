@@ -1,5 +1,5 @@
 # 100 Days Of Code - Log
-### Day 0: February 30, 2016
+### Day 0: January 1, 2017
 
 **Today's Progress**: Today, pondering why Twitter Bootstrap is so popular and learning about CSS grid systems from the ground up. Have been. Finsihed the tutorial on chapter 16 from the book "CSS: the missing manual" and messing around the Skeleton framework, an alternative to Bootstrap.
 
