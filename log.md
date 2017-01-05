@@ -13,6 +13,14 @@
 **Thoughts:** Tomorrow I know will be hard to find time to code, but I thinking of messing around with Flexbox next.
 
 **Link to work:** <https://chiubaca.github.io/>
+
+### Day 3: January 4, 2017
+
+**Today's Progress**: I only got to get code for 15 mins on Jan 3rd so I'm carrying it over to Jan 4th. I started on question 5 of Project Euler, trying to get a a nested for loop within a while to work but hitting some errors...grrr
+
+**Thoughts:**: This is the hardest thing about programming ,getting stuck and not being sure why. I've been focusing a lot of CSS recently and writing up markup . Jumping straight into some Python after a little while is a bit of a shock to the system. Will mess around with the the logic a bit more tomomorrow then go back to finishing my CSS work and play with Flexbox.
+
+**Link to work:** uploading soon
 <!---
 ### Day 0: February 30, 2016 (Example 1)
 ##### (delete me or comment me out)
