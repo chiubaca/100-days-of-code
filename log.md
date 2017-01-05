@@ -21,6 +21,15 @@
 **Thoughts:**: This is the hardest thing about programming ,getting stuck and not being sure why. I've been focusing a lot of CSS recently and writing up markup . Jumping straight into some Python after a little while is a bit of a shock to the system. Will mess around with the the logic a bit more tomomorrow then go back to finishing my CSS work and play with Flexbox.
 
 **Link to work:** uploading soon
+
+### Day 4: January 5, 2017
+
+**Today's Progress**: I think i've finally cracked question 5 of Project Euler, its taking longer than 5 secs to work out. So need to refine the logic somemore . I'm just happy i got the while loop working correctly, so in my eyes its still a success . I've taken a brute for approach to solving the questions which clearly isnt efficent .  
+
+**Thoughts:**:  I  dontthink my maths is good enough to efficently work on project Euler . If i carry on with more Project Euler questions this will become #100daysofProjectEuler. Will definetly go back to web dev tomorrow and at last- Flexbox!!
+
+**Link to work:** uploading soon
+
 <!---
 ### Day 0: February 30, 2016 (Example 1)
 ##### (delete me or comment me out)
