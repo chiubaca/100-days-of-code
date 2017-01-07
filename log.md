@@ -26,37 +26,17 @@
 
 **Today's Progress**: I think i've finally cracked question 5 of Project Euler, its taking longer than 5 secs to work out. So need to refine the logic somemore . I'm just happy i got the while loop working correctly, so in my eyes its still a success . I've taken a brute for approach to solving the questions which clearly isnt efficent .  
 
-**Thoughts:**:  I  dontthink my maths is good enough to efficently work on project Euler . If i carry on with more Project Euler questions this will become #100daysofProjectEuler. Will definetly go back to web dev tomorrow and at last- Flexbox!!
+**Thoughts:**:  I  dont think my maths is good enough to efficently work on project Euler . If i carry on with more Project Euler questions this will become #100daysofProjectEuler. Will definetly go back to web dev tomorrow and at last- Flexbox!!
 
 **Link to work:** uploading soon
 
-<!---
-### Day 0: February 30, 2016 (Example 1)
-##### (delete me or comment me out)
+### Day 5: January 6, 2017
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+**Today's Progress**: Reviewed my code for Project Euler and added some additonal code so i track how long it takes to run. It takes far to long to compute! Need to understand how to write more elegant algorithms. 
 
-**Thoughts:** I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
+**Thoughts:**: Today was tough. Sleep deprived due to no heating in my house. Forced my self just to code for a little bit. think i managed 20 mins which I'm a bit annoyed about. This challenge is harder than anticipated when trying to juggle all of other lifes problems and commitments . Determined to battle through though. 
 
-**Link to work:** [Calculator App](http://www.example.com)
-
-### Day 0: February 30, 2016 (Example 2)
-##### (delete me or comment me out)
-
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
-
-**Thoughts**: I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
-
-**Link(s) to work**: [Calculator App](http://www.example.com)
+**Link to work:** uploading soon
 
 
-### Day 1: June 27, Monday
 
-**Today's Progress**: I've gone through many exercises on FreeCodeCamp.
-
-**Thoughts** I've recently started coding, and it's a great feeling when I finally solve an algorithm challenge after a lot of attempts and hours spent.
-
-**Link(s) to work**
-1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
-2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)
---->
