@@ -38,5 +38,27 @@
 
 **Link to work:** uploading soon
 
+### Day 6: January 7, 2017
+
+**Today's Progress**: Not too much coding, but learnt a lot about flexbox. want to hack around with it a bit more, but seems really useful . can't wait to implement its functionality into my blog.  Also discoverd this neat tool to add vendor prefixes to your CSS
+<https://github.com/postcss/autoprefixer>
+**Thoughts:**: Another busy day and tough to sqeeze in the time to for coding but I am least trying to look at code everyday even if it is not for one hour
+
+**Link to work:** uploading soon
+
+### Day 7: January 8, 2017
+
+**Today's Progress**: Spent more of today learning about Flex box and also general CSS best practice. in summary:
+- Do use css reset or normalise
+- avoid classistis (using too many classes)
+- try to use decedent selectors whenever you can
+- breaking up css into different css files can help organise your css and make it more managable
+- join mutiple css files into one "gatekeeper" or base.css file using the import class
+- do reference multiple classes if required . great for reducing css
+
+
+**Thoughts:**:Spent over 2 hours reading and learning about Flex and various Css things. This makes up for hot hitting 1 hours the others days this week . Mind drifted a few times to other coding projects. One in particular [magic mirror]<http://blog.dylanjpierce.com/raspberrypi/magicmirror/tutorial/2015/12/27/build-a-magic-mirror.html> ..... Maybe later!!
+
+**Link to work:** uploading soon
 
 
