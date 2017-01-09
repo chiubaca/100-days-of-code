@@ -63,3 +63,12 @@
 **Link to work:** uploading soon
 
 
+### Day 8: January 9, 2017
+
+**Today's Progress**: Had this wacky idea to find a way to automate my 100 days of code counter in my twitter bio. was looking around for ways to do this and found Tweepy a twitter Python API. Lots of people seem to recomend it around the internet . Have got the update bio method working on a test twitter account . Wouldnt it be funny if my bio could tell the weather too? heh. been looking at the open weather API. will hack around with it tomorrow.
+
+
+**Thoughts:**: uh oh .. im getting distracted from my css work... at least i'm having fun though. I never thought i would be able to hack around with code like this. It feels good though.
+
+**Link to work:** uploading soon
+
