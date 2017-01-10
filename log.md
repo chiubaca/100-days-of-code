@@ -72,3 +72,12 @@
 
 **Link to work:** uploading soon
 
+
+### Day 9: January 10, 2017
+
+**Today's Progress**: Made some progress with this little python script to automate my 100 days of code ticker. I'm hosting it on Pythonanywhere.com which is a greate service to run python apps and scripts , in the free model i can run 1 script once a day which is great for this little project. Also worked out how to print emojis using unicode which was tricker than anticipated. Still a little confused around unicode but its working! somehow.
+
+
+**Thoughts:**: I'm having fun with this little side project I am aiming to get this completed by tommorrow and hopefully post a tweet about it. once I'm done i will finish off my CSS book and begin hacking with my jekyll blog and try to theme it. 
+
+**Link to work:** uploading soon
