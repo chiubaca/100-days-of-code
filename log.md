@@ -81,3 +81,22 @@
 **Thoughts:**: I'm having fun with this little side project I am aiming to get this completed by tommorrow and hopefully post a tweet about it. once I'm done i will finish off my CSS book and begin hacking with my jekyll blog and try to theme it. 
 
 **Link to work:** uploading soon
+
+### Day 10: January 11, 2017
+
+**Today's Progress**: More work on this twitter automation project
+
+
+**Thoughts:**: So close to getting this working
+
+**Link to work:** uploading soon
+
+### Day 11: January 12, 2017
+
+**Today's Progress**: Success with my automation script and have set it as a scheduled task on PythonAnywhere(great cloud service!). Twitter account now automatically updates my 100 days of code counter and my name updates with the current weather powered by Open Weather Map. 
+
+**Thoughts:**: Had great fun with this mini project I need to do more things like this as I learn so much doing. I must get back to CSS and starting learning how to theme my blog. 
+
+**Link to work:** uploading soon
+
+
