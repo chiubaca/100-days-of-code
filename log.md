@@ -99,4 +99,29 @@
 
 **Link to work:** uploading soon
 
+### Day 12: January 13, 2017
+
+**Today's Progress**: Just a little work on my automation script. implemented a continuous while loop which could replace the scheduled task
+
+**Thoughts:**: busy travelling today so not much coding managed to sqeeze in a little work though
+
+**Link to work:** uploading soon
+
+### Day 13: January 14, 2017
+
+**Today's Progress**: Some reserch on jekyll themeing and reading around Sass
+
+**Thoughts:**: quite overwhelmed with jekyll, need to break it down a bit and Sass is a bit of beast too.
+
+**Link to work:** n/a
+
+
+### Day 14: January 15, 2017
+
+**Today's Progress**: spent a few hours learning about sass some more . seems really powerful , but need to spend some time with to get a feel for it.
+
+**Thoughts:**: not much coding again, just lots of reading. will be rebuilding an old website with sass next.
+
+**Link to work:** n/a
+
 
