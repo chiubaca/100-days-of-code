@@ -20,7 +20,7 @@
 
 **Thoughts:**: This is the hardest thing about programming, getting stuck and not being sure why. I've been focusing a lot of CSS recently and writing markup . Jumping straight into some Python after a little while is a bit of a shock to the system. Will mess around with the the logic a bit more tomomorrow then go back to finishing my CSS work and play with Flexbox.
 
-**Link to work:** uploading soon
+**Link to work:** <https://github.com/chiubaca/100-days-of-code/blob/master/day-five/problem5.py>
 
 ### Day 4: January 5, 2017
 
@@ -28,7 +28,7 @@
 
 **Thoughts:**:  I dont think my maths is good enough to efficently work on project Euler . If i carry on with more Project Euler questions this will become #100daysofProjectEuler. Will definetly go back to web dev tomorrow and at last- Flexbox!!
 
-**Link to work:** uploading soon
+**Link to work:** <https://github.com/chiubaca/100-days-of-code/blob/master/day-five/problem5.py>
 
 ### Day 5: January 6, 2017
 
@@ -36,7 +36,7 @@
 
 **Thoughts:**: Today was tough. Sleep deprived due to no heating in my house. Forced my self just to code for a little bit. think i managed 20 mins which I'm a bit annoyed about. This challenge is harder than anticipated when trying to juggle all of other lifes problems and commitments . Determined to battle through this though. 
 
-**Link to work:** uploading soon
+**Link to work:** <https://github.com/chiubaca/100-days-of-code/blob/master/day-five/problem5.py>
 
 ### Day 6: January 7, 2017
 
@@ -45,7 +45,7 @@
 
 **Thoughts:**: Another busy day and tough to sqeeze in the time to for coding but I am least trying to look at code everyday even if it is not for one hour
 
-**Link to work:** uploading soon
+**Link to work:** n/a
 
 ### Day 7: January 8, 2017
 
@@ -60,7 +60,7 @@
 
 **Thoughts:**:Spent over 2 hours reading and learning about Flexbox and various CSS things. This makes up for hot hitting 1 hours the others days this week . Mind drifted a few times to other coding projects. One in particular [magic mirror]<http://blog.dylanjpierce.com/raspberrypi/magicmirror/tutorial/2015/12/27/build-a-magic-mirror.html> ..... Maybe later!! must stay focused :)
 
-**Link to work:** uploading soon
+**Link to work:** n/a
 
 
 ### Day 8: January 9, 2017
