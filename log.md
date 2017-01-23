@@ -124,4 +124,28 @@
 
 **Link to work:** n/a
 
+### Day 15: January 16, 2017
+
+**Today's Progress**: Working on my Jekyll Blog messing around with themes and getting a feel for how the liquid mark up works along with sass
+
+**Thoughts:**: Jekyll is confusing...
+
+**Link to work:** <https://github.com/chiubaca/chiubaca.github.io>
+
+### Day 16: January 17, 2017
+
+**Today's Progress**: More Jekyll blog stuff understanding how it all works..
+
+**Thoughts:**: Jekyll is still confusing...
+
+**Link to work:** <https://github.com/chiubaca/chiubaca.github.io>
+
+### Day 17: January 18, 2017
+
+**Today's Progress**: Stopped working on blog site- need to do some work on my my lion dance club website <http://yiquinlion.co.uk> With all this sass work I want to re-write the whole site
+
+**Thoughts:**: the markup in this blog is so bad... i need to re-write this website
+
+**Link to work:** https://github.com/chiubaca/yiquin
+
 
