@@ -146,6 +146,63 @@
 
 **Thoughts:**: the markup in this blog is so bad... i need to re-write this website
 
-**Link to work:** https://github.com/chiubaca/yiquin
+**Link to work:** <https://github.com/chiubaca/yiquin>
+
+
+### Day 18: January 19, 2017
+
+**Today's Progress**: Missed a day yesterday.. too busy! but did more work on my lion dance website today. Cleaned up some bits of the code 
+
+**Thoughts:**: Good to be using my new found knowledge of better html and css to write re-write bits of the site properly with proper semantics html 
+
+
+**Link to work:** <https://github.com/chiubaca/yiquin>
+
+
+### Day 19: January 20, 2017
+
+**Today's Progress**: Missed a day yesterday.. too busy! but did more work on my lion dance website today. Cleaned up some bits of the code 
+
+**Thoughts:**: Good to be using my new found knowledge of better html and css to write re-write bits of the site properly with proper semantics html 
+
+
+**Link to work:** <https://github.com/chiubaca/yiquin>
+
+### Day 20: January 21, 2017
+
+**Today's Progress**: more work on the lion dance website today almost ready to go live.
+
+**Thoughts:**: Pressure to make this website go live is good for practise. I can fix a lot of problems with the website pretty easily. feels good :)
+
+**Link to work:** <https://github.com/chiubaca/yiquin>
+
+
+### Day 21: January 22, 2017
+
+**Today's Progress**: Go live with Yi Quin Website! Got hold of the details for the file server and pushed my website files to the live site. The team like it!
+
+**Thoughts:**: Was a bit nervous releasing my creation out to the public but feels good to get my hard work out in the wild
+
+**Link to work:** <http://yiquinlion.co.uk>
+
+
+### Day 22: January 23, 2017
+
+**Today's Progress**: File server ran out of bandwidth :( nightmare! but redirected the domain to my gh-pages. THANK YOU GIT HUB!!!!!!
+
+Back to working on my blog again too- let make it look pretty.
+
+**Thoughts:**: This is realy world web development. its not pretty and things WILL break. I was quick on my feet and nobody even realised the website went down. Feeling good.
+
+**Link to work:** <http://yiquinlion.co.uk>
+
+### Day 23: January 24, 2017
+
+**Today's Progress**: Lots of work on my blog- Getting to grips with Jekyll and the liquid markup mechanics. Its really pwerful when combined with Sass.
+
+**Thoughts:**: Jekyll is complex but does not piss around.You can do pretty much anything you want as long as you can master how to use the tools
+
+**Link to work:** <http://chiubaca.github.io>
+
 
 
