@@ -205,4 +205,73 @@ Back to working on my blog again too- let make it look pretty.
 **Link to work:** <http://chiubaca.github.io>
 
 
+### Day 24: January 25, 2017
+
+**Today's Progress**: understanding how jekyll works a lot better now . Makinng good progress on my blog site tweakig things
+
+**Thoughts:**: Blog is coming along nicely. doing nitty gritty tweaks to the website
+
+**Link to work:** <http://chiubaca.github.io>
+
+
+### Day 25: January 26, 2017
+
+**Today's Progress**: Blog is mostly complete ready . happy with the the wy it looks. Not it needs more blogs
+
+**Thoughts:**: the modularity of sass and jekyll is really powerful . It's amazing how complex u can make your blog with just hatml and java script. 
+
+**Link to work:** <http://chiubaca.github.io>
+
+### Day 26: January 27, 2017
+
+**Today's Progress**: More tweaks to my blog site - no time to code for a few days . will be blogging about my weather bot.
+
+**Thoughts:**:  Its Chinese new year!! need to put this challenge on hold for a few days.
+
+**Link to work:** <http://chiubaca.github.io>
+
+
+### Day 28: Febuary 1, 2017
+
+**Today's Progress**: Resuming challenge after a 4 day break! longer than i wanted . diving straight into some React. lets see where this rabbit hole takes me. 
+
+**Thoughts:**: I've been curious as to what React has to offer for some time now , would be good to understand how it works at a high level
+
+### Day 29: Febuary 2, 2017
+
+**Today's Progress**: OK revising fundamental JS - will revisit react. Need to refresh my self of how to write JavaScript. Working through CodeSchool classes
+
+**Thoughts:**: Reading around React is quite abstract . I wanted to play around it with it , but realised my Javascript is a little rusty, will spend a a few weeks making sure my fundamentals are there before I mess around with JS framework or toolkit.
+
+
+### Day 30: Febuary 2, 2017
+
+**Today's Progress**: More JS tutorials
+
+**Thoughts:**: wow day 30! need to blog bt no time !!
+
+
+### Day 31: Febuary 3, 2017
+
+**Today's Progress**: More JS tutorials..
+
+**Thoughts:**: JS...Js....Js
+
+
+### Day 32: Febuary 4, 2017
+
+**Today's Progress**: 
+
+**Thoughts:**:
+
+
+
+
+
+
+
+
+
+
+
 
