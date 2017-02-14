@@ -260,13 +260,65 @@ Back to working on my blog again too- let make it look pretty.
 
 ### Day 32: Febuary 4, 2017
 
-**Today's Progress**: 
+**Today's Progress**: Learning JS
 
 **Thoughts:**:
 
 
+### Day 33: Febuary 5, 2017
+
+**Today's Progress**: Learning JS
+
+**Thoughts:**:
+
+### Day 33: Febuary 5, 2017
+
+**Today's Progress**: Learning JS
+
+**Thoughts:**:
+
+### Day 34: Febuary 6, 2017
+
+**Today's Progress**: Learning JS
+
+**Thoughts:**:
+
+### Day 35: Febuary 7, 2017
+
+**Today's Progress**: Learning JS
+
+**Thoughts:**:
+
+### Day 36: Febuary 6, 2017
+
+**Today's Progress**: Learning JS
+
+**Thoughts:**:
+
+### Day 37: Febuary 7, 2017
+
+**Today's Progress**: Learning JS
+
+**Thoughts:**:
+
+### Day 38: Febuary 9, 2017
+
+**Today's Progress**:  missed a day but more Learning JS
+
+**Thoughts:**:
+
+### Day 40: Febuary 11, 2017
+
+**Today's Progress**: Learning JS
+
+**Thoughts:**:
 
 
+### Day 41: Febuary 11, 2017
+
+**Today's Progress**: Learning JS
+
+**Thoughts:**: Wow I have been shit at tracking the last 10 days - have filled in generic post. But have been learning lots of JS through codeschool. A resources provded by work. practised lots of fundamental JS stuff , closures and loads of work around scope in JS. I getting the hang of it. 
 
 
 
