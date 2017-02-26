@@ -322,8 +322,91 @@ Back to working on my blog again too- let make it look pretty.
 
 
 
+### Day 42: Febuary 12, 2017
+
+**Today's Progress**: Moree JS!!!
+
+**Thoughts:* 
+
+### Day 43: Febuary 13, 2017
+
+**Today's Progress**: Moree JS!!!
+
+**Thoughts:* 
+
+### Day 43: Febuary 15, 2017
+
+**Today's Progress**: Moree JS!!!
+
+**Thoughts:* 
 
 
+### Day 44: Febuary 16, 2017
+
+**Today's Progress**: Moree JS!!!
+
+**Thoughts:* 
+
+### Day 45: Febuary 16, 2017
+
+**Today's Progress**: Moree JS!!!
+
+**Thoughts:* 
+
+### Day 46: Febuary 17, 2017
+
+**Today's Progress**: Moree JS!!!
+
+**Thoughts:* 
+
+### Day 47: Febuary 18, 2017
+
+**Today's Progress**: Moree JS!!!
+
+**Thoughts:* 
 
 
+### Day 48: Febuary 19, 2017
+
+**Today's Progress**: Moree JS!!!
+
+**Thoughts:* 
+
+### Day 49: Febuary 20, 2017
+
+**Today's Progress**: Moree JS!!!
+
+**Thoughts:* 
+
+
+### Day 50: Febuary 20, 2017
+
+**Today's Progress**: Moree JS!!!
+
+**Thoughts:* 
+
+### Day 50: Febuary 20, 2017
+
+**Today's Progress**: Moree JS!!!
+
+**Thoughts:* 
+
+### Day 51: Febuary 21, 2017
+
+**Today's Progress**: Moree JS!!!
+
+**Thoughts:* 
+
+### Day 52: Febuary 24, 2017
+
+**Today's Progress**: Moree JS!!!
+
+**Thoughts:* 
+
+### Day 53: Febuary 25, 2017
+
+**Today's Progress**: I have finished the JS fundamentals course on Code school and feel a lot more confident looking and working with JS and JSON . Its been a great course . Learnt so much, the begining was slow , relearning  operatoros and how loops works. But the later part of the course i was really interesting and have a good understanding of inheritence ,  how JS compiles , constructor , prototypes , over-riding prototype. These concepts i have seen but never really understood until now. Ready to start hacking around with JS project. currently looking at how canvas works . 
+
+**Thoughts:** feeling better about my JS skills  
+**Thoughts:* 
 
