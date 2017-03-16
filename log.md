@@ -408,5 +408,104 @@ Back to working on my blog again too- let make it look pretty.
 **Today's Progress**: I have finished the JS fundamentals course on Code school and feel a lot more confident looking and working with JS and JSON . Its been a great course . Learnt so much, the begining was slow , relearning  operatoros and how loops works. But the later part of the course i was really interesting and have a good understanding of inheritence ,  how JS compiles , constructor , prototypes , over-riding prototype. These concepts i have seen but never really understood until now. Ready to start hacking around with JS project. currently looking at how canvas works . 
 
 **Thoughts:** feeling better about my JS skills  
-**Thoughts:* 
+
+### Day 54: Febuary 26, 2017
+**Today's Progress**: Started looking into which webmapping API start with , cant decide between Leaflet ,Mapbox and ArcGIS JS API
+
+**Thoughts:** 
+
+### Day 55: Febuary 27, 2017
+**Today's Progress**: hacking around with leaflet , mapbox and ArcGIS JS APIs
+
+**Thoughts:** 
+
+### Day 56: Febuary 28, 2017
+**Today's Progress**: hacking around with leaflet , mapbox and ArcGIS JS APIs
+
+**Thoughts:** 
+
+### Day 56: March 1, 2017
+**Today's Progress**: hacking around with leaflet , mapbox and ArcGIS JS APIs
+
+**Thoughts:** 
+
+### Day 57: March 2, 2017
+**Today's Progress**: Got an idea for a pollution web map idea using Kings College Pollution API but not sure which technology to use yet to implement. I want to be a be able to draw a line and build a profile of pollution levels.
+
+**Thoughts:** 
+
+### Day 58: March 3, 2017
+
+**Today's Progress**: Working through plurasight mapbox lessons
+
+**Thoughts:** 
+
+### Day 59: March 4, 2017
+
+**Today's Progress**: Working through plurasight mapbox lessons
+
+**Thoughts:** 
+
+### Day 59: March 6, 2017
+
+**Today's Progress**: Working through plurasight mapbox lessons
+
+**Thoughts:** 
+
+### Day 60: March 7, 2017
+
+**Today's Progress**: Working through plurasight mapbox lessons
+
+**Thoughts:** feeling these leasons are not great , will do a few more...
+
+### Day 61: March 8, 2017
+
+**Today's Progress**: Working through plurasight mapbox lessons
+
+**Thoughts:**
+
+### Day 62: March 10, 2017
+
+**Today's Progress**: feel like i need to learn a bit more about leaflet works - starting to read leafelt tips and tricks and working through examples
+
+**Thoughts:** 
+
+
+### Day 63: March 13, 2017
+
+**Today's Progress**: Reading leafelt tips and tricks and working through examples , still looking at methods to build this pollution map.
+
+**Thoughts:** 
+
+### Day 64: March 14, 2017
+
+**Today's Progress**: Reading leafelt tips and tricks and working through examples , still looking at methods to build this pollution map. Found some examples of how to return a point and raster value using the ArcGIS JS api... should i switch to the JS API instead?? 
+
+**Thoughts:** : feeling confused as to what APi i should focus my attention.. i dont want to reinvent the wheel doing this. but at the same should i try to!? it would be good learning experience . learning an API is strange completely different from learning core JS,  feel like need more JS training!?
+
+### Day 65: March 14, 2017
+
+**Today's Progress**: read through a little bit more of leaflet tips and tricks , then started to trying to hack this mapbox app -https://www.mapbox.com/blog/introducing-the-surface-api/
+
+**Thoughts:** feeling like i'm making no progress with this... I need to refocus. am i biting off more than i can chew with this project? maybe i should start smalling and work out how to build a really simple with the pollution web map api first... 
+
+1) finisih leafelt tips and tricks
+2) build a basic webmap with the air pollution api
+3) add on layers to switch between the pollution layers
+4)??
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
