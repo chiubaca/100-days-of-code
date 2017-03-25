@@ -494,6 +494,43 @@ Back to working on my blog again too- let make it look pretty.
 3) add on layers to switch between the pollution layers
 4)??
 
+### Day 66: March 15, 2017
+
+**Today's Progress**: currently still reading through leaflet tips and tricks and messing aroung with leaflet plugins... no real progres on the pollution map
+
+**Thoughts:** just learning leaflet , still counts!
+
+
+### Day 67: March 19, 2017
+
+**Today's Progress**: finished leaflet tips and tricks, moving on to some youtube tutorials
+
+**Thoughts:** 
+
+
+### Day 68: March 20, 2017
+
+**Today's Progress**: still watching youtube videos about leaflet and messing around around with it on codepen. its starting to click now.
+
+**Thoughts:** 
+
+### Day 69: March 22, 2017
+
+**Today's Progress**:  finished a the leaflet youtube tutorials , i'm just playing around with the framework now experiementing with how it works . also started reading eloquent javascript . only read the first chapter but i like it!
+
+**Thoughts:** to learn code , you just gotta code!
+
+
+### Day 70: March 23, 2017
+
+**Today's Progress**: trying to pick up this pollution idea again , looking at how i can make an arcgis JS code example and how I can refactor it to fit the leaflet framework. Just want to carry on messing around with leaflet somemore so that i feel more comfortable with the framework.
+
+**Thoughts:** feeling more confident i can make this pollution map. baby steps. solve one little problem at a time.
+
+
+
+
+
 
 
 
