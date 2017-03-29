@@ -529,6 +529,21 @@ Back to working on my blog again too- let make it look pretty.
 
 
 
+### Day 71: March 26, 2017
+
+**Today's Progress**: almost finished these leaflet tutorials on youtube and am getting a better grasp of the leaflet api, just needs some hands on practise and should be there
+
+**Thoughts:** 
+
+
+### Day 71: March 29, 2017
+
+**Today's Progress**: fiinshed watching the youtube tutorials and want to start re-learning jqeuery fundamentals. want to refactor some of the esri JS api to work in Leaflet too. but bit tired today!  will try and make some more progress with this tomorrow 
+
+**Thoughts:** feel liks my progress has slowed a lot in the last couple of day, will pick this up properly tomorrow!!
+
+
+
 
 
 
