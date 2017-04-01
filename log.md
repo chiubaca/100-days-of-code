@@ -536,11 +536,13 @@ Back to working on my blog again too- let make it look pretty.
 **Thoughts:** 
 
 
-### Day 71: March 29, 2017
+### Day 72: April 1, 2017
 
-**Today's Progress**: fiinshed watching the youtube tutorials and want to start re-learning jqeuery fundamentals. want to refactor some of the esri JS api to work in Leaflet too. but bit tired today!  will try and make some more progress with this tomorrow 
+**Today's Progress**: spent over 6 hours coding today. progess with my leaflet pollution map. got layers displaying by intergrating esri leaflet plugin and learning AJAX for API request to london air pollution.
 
-**Thoughts:** feel liks my progress has slowed a lot in the last couple of day, will pick this up properly tomorrow!!
+**Thoughts:** more than made up for lack of coding this week today. really enjoying learning about ajax pretty interesting and need to try and implement it into my app now. feeling hopeful i can actually build this danm thing!
+
+
 
 
 
