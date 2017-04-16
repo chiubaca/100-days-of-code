@@ -543,11 +543,56 @@ Back to working on my blog again too- let make it look pretty.
 **Thoughts:** more than made up for lack of coding this week today. really enjoying learning about ajax pretty interesting and need to try and implement it into my app now. feeling hopeful i can actually build this danm thing!
 
 
+### Day 73: April 3, 2017
+
+**Today's Progress**: learning more about AJAX calls ,following some tutorials
+
+**Thoughts:**
+
+
+### Day 75: April 7, 2017
+
+**Today's Progress**: missed a few days of coding, so busy at work! still learning about how AJAX calls work . 
+
+**Thoughts:**
+
+### Day 76: April 9, 2017
+
+**Today's Progress**: understand how AJAX calls better , coding a little app for practice. It injects HTML into a DIV and clears the all elements afterwards. 
+
+**Thoughts:** : enjoying learning about DOM manipulation using Javascript , pretty cool.
+
+
+### Day 77: April 10, 2017
+
+**Today's Progress**: little practise app is working well , need to refactor the AJAX logic and implement it into my air pollution map
+
+**Thoughts:**
+
+**link to work:** http://codepen.io/chiubaca/pen/dvEZBQ
 
 
 
+### Day 78: April 10, 2017
+
+**Today's Progress**:  implemented AJAX logic into air pollution map and also ability for the webapp to clear HTML elements after each click of the map.  Wherever you click on the map it will return the No2 and O3 pollution levels. The CSS needs a lot of work!! need to upload the code to github for proper version control.
+
+**Thoughts:**really chuffed I have been able to implement the AJAX logic and ability to clear the HTML after each click. Still a long way off from creating the pollution profiles but progress is progress.
+
+**link to work:** http://codepen.io/chiubaca/pen/peGoVa
 
 
+### Day 79: April 14, 2017
+
+**Today's Progress**:  Not too much work done . ported code off codepen and uploaded it to github . started looking at the CSS and realised i have forgotten everything!! nooooo.......  All i remember is floats lol.
+
+**Thoughts:** Coding on my birthday week. I must really enjoy coding now! Need to revise my CSS, but will keep the design simple for this application. With the main logic in place i can focus on the look and feel of the application. which might prove to more challenging...
+
+### Day 80: April 16, 2017
+
+**Today's Progress**:  Thinking more about the CSS design of the app and investigating some charting librarys to bring the application to life. also udpated about 2 weeks worth of these logs, whoops. Too busy coding to document my progress.
+
+**Thoughts:** CSS is BITCH, cant get anything to work. want to work on the chart visualisation instead.
 
 
 
