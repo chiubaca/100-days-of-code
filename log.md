@@ -594,6 +594,34 @@ Back to working on my blog again too- let make it look pretty.
 
 **Thoughts:** CSS is BITCH, cant get anything to work. want to work on the chart visualisation instead.
 
+### Day 81: April 17, 2017
+
+**Today's Progress**:  Learning some SVG concepts via http://svgtutorial.com/ , seeing how i can implements some graphs into the air pollution map
+
+### Day 82: April 18, 2017
+
+**Today's Progress**:  More SVG concepts via http://svgtutorial.com/ , seeing how i can implements some graphs into the air pollution map
+
+### Day 83: April 19, 2017
+
+**Today's Progress**: playing around with d3 and going through tutorials on plurasight
+
+### Day 84: April 20, 2017
+
+**Today's Progress**: playing around with d3 some more and going through tutorials on plurasight
+
+### Day 85: April 21, 2017
+
+**Today's Progress**: more d3 practise and got some basic graphs working in d3
+
+**Thoughts**: d3 is clearly powerful as  it allow for svg manipulation with JavaScript, tutorials on plurasight are great, and i want to carry on learning d3. but for a quick win for my air pollution map i'm going to explore a charting library like chart.js. Seems quicker to implement a good looking chart. 
+
+
+
+
+
+
+
 
 
 
