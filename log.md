@@ -616,6 +616,26 @@ Back to working on my blog again too- let make it look pretty.
 
 **Thoughts**: d3 is clearly powerful as  it allow for svg manipulation with JavaScript, tutorials on plurasight are great, and i want to carry on learning d3. but for a quick win for my air pollution map i'm going to explore a charting library like chart.js. Seems quicker to implement a good looking chart. 
 
+### Day 86: April 22, 2017
+
+**Today's Progress**: started reading up on chart JS, looks really easy to use - the boiler plate code was easy enought to get started with and all i need to do is work how to add the pollution into an array and refresh the chart and that should be dandy!!
+
+**Thoughts**: wprk on d3 has made me really appreciate how awesome a library like chartjs is. clean and straight forward to use the abstraction is done so well I can focus on trying to get my data to work with the chart and i dont need to learn how to build charts from the ground up.
+
+**link to work** : http://codepen.io/chiubaca/pen/PmzOYR
+
+
+### Day 76: April 23, 2017
+
+**Today's Progress**: more work on chart js. good progress . got a radial charts working and got a POC to show how data refreshes work. it looks great too. loving chartjs . need to refactor the code to work with the pollution map now
+
+**Thoughts**: making progress!! I love it. think i can get this map and dyanamic chart built before the end of this challenge 
+
+**link to work** : http://codepen.io/chiubaca/pen/pPbMWR
+
+
+
+
 
 
 
