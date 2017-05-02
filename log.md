@@ -634,6 +634,95 @@ Back to working on my blog again too- let make it look pretty.
 **link to work** : http://codepen.io/chiubaca/pen/pPbMWR
 
 
+### Day 77: April 24, 2017
+
+**Today's Progress**: successfully implemented Chart JS into Web map and it looks  goood!! now to work on some of the UI UX
+
+**Thoughts**:surprised by how quickly i did this. I underestimated my skills :D muhaha .
+
+**link to work** : http://codepen.io/chiubaca/pen/pPbMWR
+
+
+### Day 78: April 24, 2017
+
+**Today's Progress**: redoing some of the CSS - surprising i still remember my css stuff from way back when ifirst started this challenge.
+
+**Thoughts**: working out how to make this look "good" is surprising tricky and trying to get css to do what i want is as hard as ever. maybe i will master this properly one day.
+
+**link to work** : http://codepen.io/chiubaca/pen/pPbMWR
+
+
+### Day 79: April 25, 2017
+
+**Today's Progress**:  still working on the design on this - practising my css on a different codepen
+
+**Thoughts**: revising css again . but its coming back to me much quicker
+
+**link to work** : http://codepen.io/chiubaca/pen/dWOREz
+
+### Day 80: April 26, 2017
+
+**Today's Progress**:  design of the  web app is starting to take shape but its still pretty clunky, i'm adding in media queries to make it more mobile friendly
+
+**link to work** : http://codepen.io/chiubaca/pen/YVZYpV
+
+### Day 81: April 27, 2017
+
+**Today's Progress**:  implented some cool cloud animations- forked from somewhere else. Just a bit of fun . Think it looks pretty good.
+
+**link to work** : http://codepen.io/chiubaca/pen/YVZYpV
+
+### Day 82: April 28, 2017
+
+**Today's Progress**:  fafing around with more of the desgin on the webapp- maybe this is taking a bit too long? 
+
+**Thoughts:** Thought it was cool London Air DM on twitter today asking how i was implementing the query in my map. cant wait to share this with the world.
+
+**link to work** : http://codepen.io/chiubaca/pen/YVZYpV
+
+
+### Day 83: April 29, 2017
+
+**Today's Progress**:  media queries implemented but still looks goofy. 
+
+**Thoughts:** UI UX sure is hard. just cant seem to make this looks good. Plus the chartJS canvas element just doenst want to play ball....
+
+**link to work** : http://codepen.io/chiubaca/pen/YVZYpV
+
+### Day 84: April 29, 2017
+
+**Today's Progress**:  media queries implemented but still looks goofy. 
+
+**Thoughts:** UI UX sure is hard. just cant seem to make this looks good. Plus the chartJS canvas element just doenst want to play ball....
+
+**link to work** : http://codepen.io/chiubaca/pen/YVZYpV
+
+
+### Day 85: April 30, 2017
+
+**Today's Progress**:  more work on css media queries
+
+**Thoughts:** still looks crappy after so much work....
+
+**link to work** : http://codepen.io/chiubaca/pen/YVZYpV
+
+
+
+### Day 86: May 1, 2017
+
+**Today's Progress**: time for a design rethink. looking into implementing a leaflet plugin https://github.com/Turbo87/leaflet-sidebar . this p[lugin looks solid and I can put the chart into the element inside there and it should look cleaner.
+
+**link to work** : http://codepen.io/chiubaca/pen/YVZYpV
+
+
+
+
+
+
+
+
+
+
 
 
 
