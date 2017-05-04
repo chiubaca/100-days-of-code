@@ -715,6 +715,32 @@ Back to working on my blog again too- let make it look pretty.
 **link to work** : http://codepen.io/chiubaca/pen/YVZYpV
 
 
+### Day 87: May 2, 2017
+
+**Today's Progress**: exported code from codepen and setting it up as a github project
+
+**Thoughts**: trying to remember my git commands, forgotton most of them!
+
+### Day 88: May 3, 2017
+
+**Today's Progress**: setting up github pages and setting up a new domain which isnt using https becasue hosted gh-pages enforces https. following docs to get this to work and eventually got it to work
+
+**Thoughts**: this feels like real development. loads of pain and finally sucess. Persistance is so important when it comes to these things
+
+**Link to work: ** http://chiubaca.gq/
+
+
+### Day 89: May 4, 2017
+
+**Today's Progress**: implementing a new sidebar in the pollution webmap. its less clunky compared to the way it was before.
+
+**Thoughts**: app is starting to look more like how i imagined it. little wins slowly amounting to success :)
+
+**Link to work: ** http://chiubaca.gq/
+
+
+
+
 
 
 
