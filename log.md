@@ -738,6 +738,43 @@ Back to working on my blog again too- let make it look pretty.
 
 **Link to work: ** http://chiubaca.gq/
 
+### Day 90: May 5, 2017
+
+**Today's Progress**: further tweaks to pollution map tidying up code
+
+**Link to work: ** http://chiubaca.gq/
+
+### Day 91: May 6, 2017
+
+**Today's Progress**: further tweaks to pollution map tidying up code
+
+**Link to work: ** http://chiubaca.gq
+
+### Day 92: May 6, 2017
+
+**Today's Progress**: further tweaks to pollution map tidying up code
+
+**Link to work: ** http://chiubaca.gq/
+
+
+### Day 93: May 6, 2017
+
+**Today's Progress**: Putting a pen in this project for a while - decided to call this a pre-alpha. and put up on the internet. Still needs a lot more features to be added but I'll like to focus on some other aspect of coding now. perhaps Git version control, Docker, learn some more about Linux . Need to have a think about what will be the most useful. 
+
+**Today's Progress**: Last week of coding to go !
+
+**Link to work: ** http://chiubaca.gq/
+
+
+### Day 94: May 20, 2017
+
+**Today's Progress**: Week off due to life and crazy work time . thanks a lot WannaCry.
+
+**Today's Progress**:
+
+**Link to work: **
+
+
 
 
 
