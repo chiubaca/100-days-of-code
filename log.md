@@ -768,11 +768,41 @@ Back to working on my blog again too- let make it look pretty.
 
 ### Day 94: May 20, 2017
 
-**Today's Progress**: Week off due to life and crazy work time . thanks a lot WannaCry.
+**Today's Progress**: Week off due to life and crazy work time . thanks a lot WannaCry. started doing some work on how to use Git
 
-**Today's Progress**:
 
-**Link to work: **
+### Day 95: May 21, 2017
+
+**Today's Progress**: Doing more work on Git
+
+**Thoughts **: not starting any new big projects for - focusing on improving my Git fundamentals for now - might start looking into frecodecamp as something to do after 100dayscode
+
+### Day 96: May 22, 2017
+
+**Today's Progress**: more tutorial work on Git fundamentals
+
+**Thoughts **: learning things i know already about Git but reinforcing best practises and learning more about how your sopposed to use it is interesting.
+
+### Day 97: May 23, 2017
+
+**Today's Progress**: more tutorial work on Git fundamentals
+
+### Day 98: May 24, 2017
+**Today's Progress**: more tutorial work on Git fundamentals
+
+
+### Day 99: May 25, 2017
+**Today's Progress**: more tutorial work on Git fundamentals - signed up for freecodecamp decided i will work towards getting my front end certification! 
+
+** Thoughts ** : excited for my next challenge with freecodecamp!
+
+
+### Day 100: May 26, 2017
+**Today's Progress**: LAST DAY!!
+
+** Thoughts ** : 
+
+
 
 
 
