@@ -798,10 +798,9 @@ Back to working on my blog again too- let make it look pretty.
 
 
 ### Day 100: May 26, 2017
-**Today's Progress**: LAST DAY!!
+**Today's Progress**: LAST DAY!! Finished my last day by signing up for Free Code Camp which i realise is kind of unconventional, as most people i suspect this will be the first thing they do. I've decided after 100 days of code challenge i will continue to wor towards my front end cert in FCC amongst other side coding projects. I'm revisiting css again on last day. which is kind of funny as it was what i first started on, pondering why bootstrap is so popular, I tried to be a bit of hipster and use something a bit different , but here I am on my last day learning bootstrap and finding myself being very productive with it!
 
-** Thoughts ** : 
-
+** Thoughts ** : I've learnt so much about coding about coding these last couple of months. but most importantly i've learnt  that I CAN learn to code. no matter how hard or complex something may seem at first , taking it step by step and breaking down what subject or problem , it can be overcome. It's a very empowering feeling and makes me so excited to keep learning and keep getting better.
 
 
 
